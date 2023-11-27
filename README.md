@@ -1,16 +1,15 @@
-### Hi there 👋
+# Мое резюме
+- [Резюме](https://hh.ru/resume/5af6fc18ff087c5bca0039ed1f42586d354736?disableBrowserCache=true&hhtmFrom=resume_list)
 
-<!--
-**anastasiarazorenova/anastasiarazorenova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Мои курсы
+| Название курса                                     | Форма обучения | Статус               |
+|-----------------------------------------------------|----------------|----------------------|
+| [Яндекс.Практикум: Специалист по Data Science](https://practicum.yandex.ru/data-scientist/) | Дистанционно   | Завершен             |
 
-Here are some ideas to get you started:
+# Учебные проекты
+| Название проекта                                    | Используемые инструменты | Статус проекта        |
+|------------------------------------------------------|--------------------------|------------------------|
+| [Восстановление золота из руды](https://github.com/anastasiarazorenova/GoldPurificationResearch) | Python, Pandas, NumPy    | Завершен               |
+| [Анализ рынка недвижимости](https://github.com/anastasiarazorenova/SaleOfApartments) | Python, Pandas, NumPy    | Завершен               |
+| [Классификация комментариев](https://github.com/anastasiarazorenova/negativecomments) | Python, Pandas, NumPy    | Завершен               |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

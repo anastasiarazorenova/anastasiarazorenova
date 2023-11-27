@@ -9,7 +9,7 @@
 # Учебные проекты
 | Название проекта                                    | Используемые инструменты | Статус проекта        |
 |------------------------------------------------------|--------------------------|------------------------|
-| [Восстановление золота из руды](https://github.com/anastasiarazorenova/GoldPurificationResearch) | Python, Pandas, NumPy    | Завершен               |
-| [Анализ рынка недвижимости](https://github.com/anastasiarazorenova/SaleOfApartments) | Python, Pandas, NumPy    | Завершен               |
-| [Классификация комментариев](https://github.com/anastasiarazorenova/negativecomments) | Python, Pandas, NumPy    | Завершен               |
+| [Восстановление золота из руды](https://github.com/anastasiarazorenova/GoldPurificationResearch) | Python, Pandas, Matplotlib, NumPy, Scikit-learn    | Завершен               |
+| [Анализ рынка недвижимости](https://github.com/anastasiarazorenova/SaleOfApartments) | Python, Pandas, Matplotlib    | Завершен               |
+| [Классификация комментариев](https://github.com/anastasiarazorenova/negativecomments) | Python, Pandas, nltk, tf-idf    | Завершен               |
 
